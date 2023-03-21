@@ -1,0 +1,4 @@
+Icecek,urunadi,adeti,birimfiyat,fiyat
+Tatli,urunadi,adeti,birimfiyat,fiyat
+Yemek,urunadi,adeti,birimfiyat,fiyat
+Paket,urunadi,adeti,birimfiyat,fiyat

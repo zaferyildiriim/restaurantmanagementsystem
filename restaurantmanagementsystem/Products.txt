@@ -1,0 +1,6 @@
+Tatli,Baklava,20,100
+Tatli,Kunefe,25,120
+Icecek,Ayran,12,5
+Icecek,Fanta,16,6
+Yemek,Adana,15,50
+Yemek,Pilav,5,20

@@ -1,0 +1,17 @@
+Gelir,table1 satis,110.0
+Gelir,table1 satis,125.0
+Gelir,table1 satis,140.0
+Gelir,table1 satis,175.0
+Gelir,table1 satis,55.0
+Gelir,table1 satis,75.0
+Gelir,table1 satis,75.0
+Gelir,table1 satis,80.0
+Gelir,table10 satis,0.0
+Gelir,table12 satis,0.0
+Gelir,table2 satis,0.0
+Gelir,table2 satis,145.0
+Gelir,table4 satis,0.0
+Gelir,table8 satis,0.0
+Gider,fatura,140
+Gider,nlncsa,110.0
+Gelir,table1 satis,250.0

@@ -1,0 +1,5 @@
+Icecek,b,10
+Paket,k,1
+Tatli,a,1
+Tatli,b,1
+Yemek,l,5
